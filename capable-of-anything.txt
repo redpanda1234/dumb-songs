@@ -1,0 +1,40 @@
+// Sung to the tune of Ben Folds's _Capable of Anything_.
+// You have to do some creative wrangling with the rhythm to get it to
+// work, but it's doable.
+
+
+What is this?
+It doesn’t make much sense
+They teach it like it's Python
+``Now just prove this inductively''
+And I’m sure they meant
+I could recursion it
+The difference escapes me
+
+Cause I stopped understanding anything
+I gave up
+We're told we are capable of anything
+But I don’t seem to think that I can
+Prove this problem's NP
+
+Swung and missed
+I put my heart in this
+I said ``it can't be greedy''
+(Though I wanted it to be)
+But that was bad and wrong
+And when I saw Prof. Ran
+I had no rubles left and so
+My grutors have to dock some points
+
+But I stopped caring about what they think about me
+I now know
+When we're told we are ``capable of anything''
+That really means that they believe
+That mistakes are integral to learning
+
+We are capable of anything
+But you don’t seem to think that
+You can prove big O's and not just cry
+That you could ever write a sort or even try
+That you could solve the TSP without a lie
+But you might
